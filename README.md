@@ -12,7 +12,7 @@
 - 📝 I studied at Tecnológico Nacional de México
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=iscpatricio92&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
-	<a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge"></a>
+	<a href="https://github.com/Gonz423?tab=followers"><img src="https://img.shields.io/github/followers/Gonz423?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
 ## 💻 Technologies 
