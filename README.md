@@ -1,106 +1,290 @@
+# Hola a todos, soy Gonzalo Yañez
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+<p width="45%">
+Hi, nice to meet you. Let me introduce my profile in a few lines.
+  <ul>
+    <li>👨‍🔧 I'm an <b>IT engineer</b></li>
+    <li>📍 Based near <b>Geneva</b></li>
+    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
+    <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
+    <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
+    <li>📮 You can contact me directly here : <b>gonzalo.yanez2311@gmail.com</b>
+  </ul>
+Passionate IT engineer and trainer, I am always looking for new challenges.
+<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
+If you want to discuss about it, feel free to contact me.
+</p>
 
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+## 🖥️ My tech stacks :
+
+<p align="right">
+  <h3><i>Hosting providers:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/aws-logo.png?raw=true" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ipc-logo.png?raw=true" width="48" height="48" alt="Infomaniak Public Cloud" />
+      </a>
+      <br>IPC
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/netlify-logo.png?raw=true" width="48" height="48" alt="Netlify" />
+      </a>
+      <br>Netlify
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/openstack-logo.png?raw=true" width="48" height="48" alt="OpenStack" />
+      </a>
+      <br>OpenStack
+    </td>
+  </tr>
+</table>
+<p>
+  <h3><i>Languages:</i></h3>
+  <table>
+  <tr border: none;>
+   <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/bash-logo.png?raw=true" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/css3-logo.png?raw=true" width="48" height="48" alt="CSS 3" />
+      </a>
+      <br>CSS 3
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/html5-logo.png?raw=true" width="48" height="48" alt="HTML 5" />
+      </a>
+      <br>HTML 5
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/markdown-logo.png?raw=true" width="48" height="48" alt="Markdown" />
+      </a>
+      <br>Markdown
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/python-logo.png?raw=true" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/yaml-logo.png?raw=true" width="48" height="48" alt="YAML" />
+      </a>
+      <br>YAML
+    </td>
+  </tr>
+</table>
+</p>
+<p>
+  <h3><i>Operating Systems:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/debian-logo.png?raw=true" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/apple-logo.png?raw=true" width="48" height="48" alt="macOS" />
+      </a>
+      <br>macOS
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/redhat-logo.png?raw=true" width="48" height="48" alt="Red Hat" />
+      </a>
+      <br>Red Hat
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ubuntu-logo.png?raw=true" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/windows-logo.png?raw=true" width="48" height="48" alt="Windows" />
+      </a>
+      <br>Windows
+    </td>
+  </tr>
+</table>
+</p>
+<p>
+  <h3><i>Other tools:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/github-logo.png?raw=true" width="48" height="48" alt="GitHub Action" />
+      </a>
+      <br>Action
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ansible-logo.png?raw=true" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ceph-logo.png?raw=true" width="48" height="48" alt="Ceph" />
+      </a>
+      <br>Ceph
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/gitlab-logo.png?raw=true" width="48" height="48" alt="GitLab CI/CD" />
+      </a>
+      <br>CI/CD
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/cloud-init-logo.png?raw=true" width="48" height="48" alt="Cloud-Init" />
+      </a>
+      <br>Cloud-Init
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/docker-logo.png?raw=true" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/git-logo.png?raw=true" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/grafana-logo.png?raw=true" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/influxdb-logo.png?raw=true" width="48" height="48" alt="InfluxDB" />
+      </a>
+      <br>InfluxDB
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/terraform-logo.png?raw=true" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/vault-logo.png?raw=true" width="48" height="48" alt="Vault" />
+      </a>
+      <br>Vault
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/visual-studio-logo.png?raw=true" width="48" height="48" alt="Visual Studio Code" />
+      </a>
+      <br>VS Code
+    </td>
+  </tr>
+</table>
+</p>
+
+## 🚧 Projects and Dev Stuffs:
+
+<details>
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>📦 openstack-alpine-images</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/openstack-alpine-image?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/openstack-alpine-image?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/openstack-alpine-image?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/openstack-alpine-image?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/linitio/openstack-alpine-image?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/linitio/docker-apps-collection"><b>🐳 docker-apps-collection</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/docker-apps-collection?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/docker-apps-collection?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/docker-apps-collection?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/docker-apps-collection?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/yaml-92%25-blue?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/linitio/aws-resume"><b>👨🏻‍💻 aws-resume</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/aws-resume?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/aws-resume?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/aws-resume?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/aws-resume?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/linitio/aws-resume?style=flat-square"/></td> 
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/linitio/linitio"><b>🤓 linitio</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/linitio?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/linitio?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/linitio?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/linitio?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-50%25-blue?style=flat-square"/></td> 
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
  
-### <h1>Hola soy Gonzalo Yañez</h1>
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> macOS Monterey</li>
+	    <li><b>Laptop: </b> MacBook Pro M1 13" & MacBook Pro M1 Pro 16"</li>
+  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode</li>
+	    <li><b>To Stay Updated:</b> linit.io, Medium, Linkedin, Twitter and Youtube.</li>
+	</ul>	
+</details>
 
-> Soy ing Informatico
-<br />
+#
 
-<!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me **isc.patricio@gmail.com**
-- 📝 I studied at Tecnológico Nacional de México
-- 💬 Ask me about: anything, I am happy to help
-- 	<img src="https://komarev.com/ghpvc/?username=iscpatricio92&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
-	<a href="https://github.com/Gonz423?tab=followers"><img src="https://img.shields.io/github/followers/Gonz423?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br>
+<div align="center">
 
-## 💻 Technologies 
+### Muestra algo de ❤️ dándole estrella a algunos repositorios!
 
-<div>
-  <img  alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img  alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white"/>
-  <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img  alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img  alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img  alt="aws" src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img  alt="styledComponent" src ="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img  alt="postgresql" src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> 
- <br><br>
 </div>
 
- ## 🛠️ Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-    &emsp; 
-   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-    &emsp;
-    
-</p>
-
-
-<br><br>
-
-## 🚥 Activity
-
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
-</p>
- 
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iscpatricio92&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="iscpatricio92" />
-</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iscpatricio92&show_icons=true&locale=en&theme=chartreuse-dark" alt="iscpatricio92" width="410"/>
-</p>
-
-<br><br><br><br><br><br><br><br>
-
-![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iscpatricio92&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-<p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
-</p>
-<br>
-
-
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=iscpatricio9&layout=compact&theme=algolia" alt="iscpatricio92" />
- </a>
-</p>
-
-
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
-    alt="Gonzalo Yañez" />
-</p>
-
-
-<br>
-
-## 😎 Connect with me
-<p align="left">
-  
-<a href="www.linkedin.com/gonzalo-yañez" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Gonzalo Yañez" height="30" width="40" /></a>
-<a href="mailTo:gonzalo.yanez2311@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gonzalo Yañez" height="30" width="40" /></a>
-<a href="https://github.com/Gonz423" target="blank"> <img align="center" alt="[https://github.com/Gonz423]" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
-</p>
-<br>
-
-<br>
+------
+[Gonzalo Yañez](https://github.com/gonzaloyc)
+Última edición: 04/09/2025
