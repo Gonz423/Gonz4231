@@ -197,8 +197,7 @@ Apasionado por construir soluciones end-to-end (front + back) y por aplicar dato
 </div>
 
 ------
-------
-------
+
 <a href="https://www.linkedin.com/in/gonya/" target="_blank" rel="noopener noreferrer" title="LinkedIn - Gonzalo Yañez">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
        width="28" height="28" alt="LinkedIn" />
