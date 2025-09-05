@@ -1,8 +1,27 @@
+# Hola a todos, soy Gonzalo Yañez
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+
+Hola, déjame introducirte a mi perfil
+
+<ul>
+  <li>👨‍🎓 Soy <b>estudiante de Ingeniería en Informática</b> y <b>dev full-stack en formación</b></li>
+  <li>📍 Basado en <b>Santiago, Chile</b></li>
+  <li>🌱 Aprendiendo y practicando <b>JavaScript/TypeScript, React, Node.js, SQL (PostgreSQL)</b> y <b>Python</b></li>
+  <li>💬 Pregúntame sobre <b>Front-end (React, Vite, Tailwind), Back-end (APIs, SQL), automatización y BI</b></li>
+  <li>📮 Contacto directo: <b>gonzalo.yanez2311@gmail.com</b></li>
+</ul>
+
+Apasionado por construir soluciones end-to-end (front + back) y por aplicar datos/IA para crear aplicaciones útiles.
+
+---
+
+## 🖥️ My tech stacks :
+
 <h3><i>Hosting / BaaS:</i></h3>
 <table>
   <tr>
     <td align="center" width="110">
-      <!-- Supabase (SimpleIcons) -->
+      <!-- Supabase (SimpleIcons - color oficial) -->
       <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" height="48" alt="Supabase" />
       <br>Supabase
     </td>
@@ -35,7 +54,7 @@
   </tr>
 </table>
 
-<h3><i>Frameworks & Tools:</i></h3>
+<h3><i>Frameworks &amp; Tools:</i></h3>
 <table>
   <tr>
     <td align="center" width="110">
@@ -47,7 +66,7 @@
       <br>Vite
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind
     </td>
     <td align="center" width="110">
@@ -65,3 +84,18 @@
     </td>
   </tr>
 </table>
+
+## 🚧 Proyectos
+
+- <b>Plataforma de Automatización para PYMEs</b> — App móvil (React Native) + API (Node/Express) + PostgreSQL. Integración de IA y flujos automáticos.
+- <b>Sitio de Reseñas (cine/libros)</b> — Front en React + búsqueda, CRUD de reseñas y almacenamiento en SQL.
+
+---
+
+<div align="center">
+  <h3>Muestra algo de ❤️ dándole estrella a algunos repositorios!</h3>
+</div>
+
+------
+[Gonzalo Yañez](https://github.com/gonzaloyc)  
+Última edición: 05/09/2025
