@@ -15,7 +15,7 @@ Apasionado por construir soluciones end-to-end (front + back) y por aplicar dato
 
 ---
 
-## 🖥️ My tech stacks :
+## 🖥️ Tecnologías que uso :
 
 <h3><i>Hosting / BaaS:</i></h3>
 <table>
