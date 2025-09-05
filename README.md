@@ -90,12 +90,6 @@ Apasionado por construir soluciones end-to-end (front + back) y por aplicar dato
 - <b>Plataforma de Automatización para PYMEs</b> — App móvil (React Native) + API (Node/Express) + PostgreSQL. Integración de IA y flujos automáticos.
 - <b>Sitio de Reseñas (cine/libros)</b> — Front en React + búsqueda, CRUD de reseñas y almacenamiento en SQL.
 
----
-
-<div align="center">
-  <h3>Muestra algo de ❤️ dándole estrella a algunos repositorios!</h3>
-</div>
-
 ------
 ------
 # Hola a todos, soy Gonzalo Yañez
@@ -189,12 +183,6 @@ Apasionado por construir soluciones end-to-end (front + back) y por aplicar dato
 
 - <b>Plataforma de Automatización para PYMEs</b> — App móvil (React Native) + API (Node/Express) + PostgreSQL. Integración de IA y flujos automáticos.
 - <b>Sitio de Reseñas (cine/libros)</b> — Front en React + búsqueda, CRUD de reseñas y almacenamiento en SQL.
-
----
-
-<div align="center">
-  <h3>Muestra algo de ❤️ dándole estrella a algunos repositorios!</h3>
-</div>
 
 ------
 
