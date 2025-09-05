@@ -200,15 +200,11 @@ Apasionado por construir soluciones end-to-end (front + back) y por aplicar dato
 ------
 ------
 <p>
-  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>/assets/linkedin.svg?v=1"
+  <a href="https://www.linkedin.com/in/gonya/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
       alt="LinkedIn - Gonzalo Yañez"
       width="26"
       height="26"
     />
   </a>
 </p>
-
-<a href="https://github.com/gonzaloyc">Gonzalo Yañez</a><br/>
-Última edición: 05/09/2025
