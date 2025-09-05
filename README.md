@@ -99,7 +99,7 @@ Apasionado por construir soluciones end-to-end (front + back) y por aplicar dato
 ------
 ------
 <p>
-  <a href="www.linkedin.com/in/gonzalo-yañez" target="_blank">
+  <a href="www.linkedin.com/in/gonya" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
 </p>
