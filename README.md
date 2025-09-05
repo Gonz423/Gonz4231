@@ -2,66 +2,83 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 
 <p width="45%">
-Hi, nice to meet you. Let me introduce my profile in a few lines.
+Hola, encantado de conocerte, dejame introducirte a mi perfil.
   <ul>
     <li>👨‍🎓 Soy <b>estudiante de Ingeniería en Informática</b> y <b>Full-Stack dev en formación</b></li>
-    <li>📍 Basado en <b>Santiago, Chile</b></li>
-    <li>🚀 Actualmente en <b>proyectos personales y académicos</b></li>
-    <li>🌱 Enfocado en <b>desarrollo full-stack</b> e <b>integración de IA</b> en software</li>
-    <li>💬 Pregúntame sobre <b>React / React Native, Node.js (Express), PostgreSQL, Power BI, AWS, automatización (Make)</b></li>
+    <li>📍 En <b>Santiago, Chile</b></li>
+    <li>🌱 Enfocado en <b>desarrollo full-stack</b> e <b>integración de IA</b></li>
+    <li>💬 Pregúntame sobre <b>React / React Native, Node.js (Express), PostgreSQL, AWS</b></li>
     <li>📮 Contáctame: <b>gonzalo.yanez2311@gmail.com</b></li>
   </ul>
-Apasionado por construir soluciones completas (front + back) y por aplicar IA para crear aplicaciones más inteligentes.
+Apasionado por construir soluciones de punta a punta (front + back) y por aplicar IA para crear aplicaciones más inteligentes.
 </p>
 
-## 🖥️ Tech stack principal
+## 🖥️ Tech stacks
 
-<p>
-  <h3><i>Lenguajes & Frameworks</i></h3>
+<p align="right">
+  <h3><i>Cloud / Hosting</i></h3>
   <table>
-  <tr>
-    <td align="center" width="110"><br>JavaScript</td>
-    <td align="center" width="110"><br>TypeScript</td>
-    <td align="center" width="110"><br>Python</td>
-    <td align="center" width="110"><br>Node.js (Express)</td>
-    <td align="center" width="110"><br>React</td>
-    <td align="center" width="110"><br>React Native</td>
-  </tr>
-  <tr>
-    <td align="center" width="110"><br>HTML</td>
-    <td align="center" width="110"><br>CSS</td>
-    <td align="center" width="110"><br>SQL (PostgreSQL)</td>
-    <td align="center" width="110"><br>Git / GitHub</td>
-    <td align="center" width="110"><br>Power BI (DAX, Power Query)</td>
-    <td align="center" width="110"><br>Make (RPA)</td>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/aws-logo.png?raw=true" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
   </tr>
 </table>
 </p>
 
 <p>
-  <h3><i>Cloud</i></h3>
+  <h3><i>Languages</i></h3>
   <table>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/aws-logo.png?raw=true" width="48" height="48" alt="AWS" />
-        <br>AWS
-      </td>
-    </tr>
-  </table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#"><img src="https://github.com/linitio/static-content/blob/main/img/logo/html5-logo.png?raw=true" width="48" height="48" alt="HTML5" /></a>
+      <br>HTML 5
+    </td>
+    <td align="center" width="110">
+      <a href="#"><img src="https://github.com/linitio/static-content/blob/main/img/logo/css3-logo.png?raw=true" width="48" height="48" alt="CSS3" /></a>
+      <br>CSS 3
+    </td>
+    <td align="center" width="110">
+      <a href="#"><img src="https://github.com/linitio/static-content/blob/main/img/logo/python-logo.png?raw=true" width="48" height="48" alt="Python" /></a>
+      <br>Python
+    </td>
+  </tr>
+</table>
+
+<!-- Stacks de tu CV sin icono en este set -->
+<p><i>Otros (según CV):</i> JavaScript, TypeScript, Node.js (Express), React, React Native, Ionic, SQL (PostgreSQL), Power BI (DAX, Power Query), Excel, Make.</p>
+</p>
+
+<p>
+  <h3><i>Tools</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#"><img src="https://github.com/linitio/static-content/blob/main/img/logo/git-logo.png?raw=true" width="48" height="48" alt="Git" /></a>
+      <br>Git
+    </td>	  
+    <td align="center" width="110">
+      <a href="#"><img src="https://github.com/linitio/static-content/blob/main/img/logo/github-logo.png?raw=true" width="48" height="48" alt="GitHub" /></a>
+      <br>GitHub
+    </td>
+  </tr>
+</table>
 </p>
 
 ## 🚧 Proyectos
 
 ### 📦 Plataforma de Automatización para PYMEs
 - App móvil (React Native) con registro/login y estado de sesión.
-- API REST en Node.js/Express para autenticación, validación y manejo de errores.
-- PostgreSQL con integridad (NOT NULL + FKs) para usuarios/ubicaciones/sesiones.
-- Autenticación con JWT y resolución de incidencias (network, HTTP 500, Git).
+- API REST en Node.js/Express (auth, validaciones, manejo de errores).
+- PostgreSQL con integridad referencial para usuarios/ubicaciones/sesiones.
+- Autenticación con JWT; resolución de incidencias (network, HTTP 500, Git).
 
 ### 🎬📚 Sitio de Reseñas de Películas y Libros
-- Frontend en React consumiendo una API externa.
-- CRUD de reseñas persistidas en base de datos SQL.
-- Integración de API y UI dinámica para búsquedas y detalle de títulos.
+- Frontend en React consumiendo API externa.
+- Base de datos SQL para reseñas; UI dinámica de búsqueda/detalle.
 
 ## 🎓 Educación
 - **Duoc UC** — Ingeniería en Informática (2025–2029) · Santiago, Chile  
