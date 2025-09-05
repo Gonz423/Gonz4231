@@ -97,5 +97,11 @@ Apasionado por construir soluciones end-to-end (front + back) y por aplicar dato
 </div>
 
 ------
-[Gonzalo Yañez](https://github.com/gonzaloyc)  
+------
+<p>
+  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
+<a href="https://github.com/gonzaloyc">Gonzalo Yañez</a><br/>
 Última edición: 05/09/2025
