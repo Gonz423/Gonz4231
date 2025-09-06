@@ -32,6 +32,10 @@ Apasionado por construir soluciones end-to-end (front + back) y por aplicar dato
 <table>
   <tr>
     <td align="center" width="110">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+    <br>Python
+    <td 
+      align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
